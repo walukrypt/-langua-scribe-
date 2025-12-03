@@ -1,4 +1,5 @@
 # LanguaScribe — African Languages Scrabble Game 🎮🇳🇬🇳🇬🇭
+"Yoruba Scrabble – A fun, culturally rich word game for learning and practicing Yorùbá vocabulary with proper tone marks and pronunciation"
 
 **Helping Yorùbá, Hausa & Igbo speakers master English through an interactive Scrabble-style game**  
 Final Year Project • 3000+ African word corpus • Built with Python (Tkinter + Pygame) → Migrating to Kivy for Android
